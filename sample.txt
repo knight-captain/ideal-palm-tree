@@ -1,3 +1,7 @@
 //This is a test!
 //now we're pretenfing someone else did this...
+<<<<<<< HEAD
 //the real vision
+=======
+//I feel the conflict within you!
+>>>>>>> fa0cf0e66fe7cb8231132775114c56c15873dd5a
